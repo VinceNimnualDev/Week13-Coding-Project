@@ -1,0 +1,19 @@
+.login-form {
+    width: 300px; /* width is 300 px */
+    margin: 0 auto; /* left and right margins is 'auto' and element is center */
+    border: 1px solid #ccc; /* Broder set to to soild border with the color #ccc */
+    padding: 20px;/* padding inside int the input field is 20px */
+    text-align: center; /* text is centered */
+  }
+  
+  .login-heading {
+    border: 1px solid #ccc; /* same criteria as above border */
+    padding: 10px; /* all around padding is 10px */
+  }
+  
+  .form-control {
+    width: 90%; /* form box is 90% */
+    padding: 10px; /* padding is 10px all aroudn */
+    margin-bottom: 10px; /* 10px is added to the margin of the bottom for spacing */
+  }
+  
